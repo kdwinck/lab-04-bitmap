@@ -1,0 +1,16 @@
+{
+  "name": "bitmap-kyle",
+  "version": "1.0.0",
+  "description": "Code Fellows 401 - Lab-04 bitmaps",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": ["bitmap"],
+  "author": "Kyle Winckler",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "mocha": "^3.2.0"
+  }
+}
